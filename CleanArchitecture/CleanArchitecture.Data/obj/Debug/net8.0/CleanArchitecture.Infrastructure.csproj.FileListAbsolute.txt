@@ -17,3 +17,4 @@ D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitectu
 D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
 D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
 D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json

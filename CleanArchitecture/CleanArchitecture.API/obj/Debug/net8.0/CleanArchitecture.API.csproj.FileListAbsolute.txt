@@ -154,3 +154,4 @@ D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitectu
 D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net8.0\CleanArchitecture.Identity.dll
 D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net8.0\CleanArchitecture.Identity.pdb
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.sourcelink.json
