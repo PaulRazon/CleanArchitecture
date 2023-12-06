@@ -1,0 +1,15 @@
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.dll
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CopyComplete
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.dll
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\CHAMBA_PAUL\CURSO_ASP_NET\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll
